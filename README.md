@@ -1,38 +1,39 @@
-# HormigasAIS-ViralLab
+# HormigasAIS-ViralLab **HormigasAIS-ViralLab** es un laboratorio experimental para estudiar y optimizar la viralización de contenido público en la web. Aquí desarrollamos crawlers, analizadores, sistemas de recomendación y visualizaciones, siempre respetando las políticas de cada plataforma. 
 
-**HormigasAIS-ViralLab** es un ecosistema experimental para explorar técnicas de viralización en la web de manera ética, creativa y automatizada. Aquí recolectamos, analizamos y recomendamos estrategias usando datos públicos.
+--- ## Estructura del proyecto 
 
----
+HormigasAIS-ViralLab/ ├── README.md → Descripción general del proyecto ├── crawler/ → Scripts para rastrear información pública │ └── linkedin_crawler.py ├── analyzer/ → Módulos de análisis de datos │ └── placeholder.txt ├── recommender/ → Algoritmos de recomendación │ └── placeholder.txt ├── dashboard/ → Visualización y reportes │ └── placeholder.txt └── data/ → Datos de prueba y desarrollo └── example_tiktok_data.json 
 
-## Estructura del proyecto
-HormigasAIS-ViralLab/ ├── README.md ├── crawler/ → Scripts de recolección de datos públicos │ └── linkedin_crawler.py ├── analyzer/ → Scripts para analizar métricas e impacto │ └── placeholder.txt ├── recommender/ → Algoritmos para recomendar acciones │ └── placeholder.txt ├── dashboard/ → Interfaz para visualizar resultados │ └── placeholder.txt └── data/ → Datasets públicos, como JSONs descargados └── example_tiktok_data.json
----
+--- 
 
-## 🚀 Objetivos
+## Descripción de carpetas 
 
-- Automatizar recolección de datos públicos en redes sociales
-- Analizar patrones de viralización
-- Generar recomendaciones personalizadas
-- Visualizar insights de forma clara
+- **crawler/** → Scripts de rastreo.
+- **analyzer/** → Análisis de datos recolectados.
+- **recommender/** → Recomendaciones basadas en datos.
+- **dashboard/** → Visualizaciones e interfaces.
+- **data/** → Datos de entrada y ejemplos. 
 
----
+--- 
 
-## 📦 Próximos pasos
+## Filosofía 
 
-- [ ] Mejorar crawler para TikTok, Facebook, Instagram y LinkedIn
-- [ ] Construir scripts de análisis en `analyzer/`
-- [ ] Diseñar recomendador en `recommender/`
-- [ ] Implementar dashboard en `dashboard/`
+> *“Sembramos ideas, rastreamos señales, analizamos raíces, y ayudamos a que crezcan brotes de viralidad ética.”* 
 
----
+--- 
 
-## 💬 Colabora
+## Cómo colaborar 
 
-Si quieres sumarte, ¡abre un issue o pull request!  
-También puedes contactarme en [LinkedIn](https://www.linkedin.com/company/hormigasais/).
+1. Clona el repositorio.
+2. Usa ramas para tus cambios.
+3. Envía pull requests explicando tus contribuciones.
+4. ¡Súmate al hormiguero de ideas! 
 
----
+--- 
 
-## 🌱 Filosofía HormigasAIS
+## Contacto 
 
-*“Las HormigasAIS encuentran sabiduría en silencio, su corazón enraizado en la tierra y su mente flotando entre las estrellas.”*
+- [LinkedIn de Cristhiam Quiñónez](https://www.linkedin.com/company/hormigasais/ 
+
+)
+- Blog personal: próximamente.
