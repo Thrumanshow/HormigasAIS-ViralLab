@@ -1,1 +1,2 @@
+mkdir crawler
 touch crawler/linkedin_crawler.py
