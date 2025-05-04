@@ -1,2 +1,18 @@
-mkdir crawler
+# 1. Crear las carpetas
+mkdir crawler analyzer recommender dashboard data
+
+# 2. Crear el archivo principal dentro de cada carpeta
 touch crawler/linkedin_crawler.py
+touch analyzer/placeholder.txt
+touch recommender/placeholder.txt
+touch dashboard/placeholder.txt
+touch data/example_tiktok_data.json
+
+# (Opcional) Si ya tienes archivos hechos, simplemente muévelos a la carpeta correspondiente, por ejemplo:
+# mv linkedin_crawler.py crawler/
+
+# 3. Verificar el árbol de carpetas (en Linux/Mac)
+tree
+
+# Si no tienes el comando 'tree', puedes hacer:
+ls -R
