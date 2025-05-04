@@ -1,0 +1,16 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales / dependencias
+venv/
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Datos sensibles o locales (opcional, según tu proyecto)
+*.env
+data/*.json
