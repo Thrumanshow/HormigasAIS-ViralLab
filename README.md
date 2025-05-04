@@ -29,7 +29,7 @@ HormigasAIS-ViralLab/ ├── README.md ├── crawler/ → Scripts de reco
 ## 💬 Colabora
 
 Si quieres sumarte, ¡abre un issue o pull request!  
-También puedes contactarme en [LinkedIn](https://www.linkedin.com/in/cristhiamq/).
+También puedes contactarme en [LinkedIn](https://www.linkedin.com/company/hormigasais/).
 
 ---
 
